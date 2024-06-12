@@ -1,19 +1,14 @@
 {
-    "name": "PCF8583",
+    "name": "PCF8593",
     "keywords": "pcf8583,rtc,counter",
-    "description": "PCF8583 Real Time Clock and Event Counter Library for Arduino",
-    "repository": {
-        "type": "git",
-        "url": "https://bitbucket.org/xoseperez/pcf8583.git"
-    },
+    "description": "PCF8593 Real Time Clock and Event Counter Library for Arduino",
     "version": "1.0.0",
     "license": "LGPL-3.0",
     "frameworks": "arduino",
-    "platforms": "atmelavr",
+    "platforms": "esp32",
     "authors": {
-        "name": "Xose Perez",
-        "email": "xose.perez@gmail.com",
-        "url": "http://tinkerman.cat",
+        "name": "Marciel Dechert",
+        "email": "Marciel.Dechert@binder24.com",
         "maintainer": true
     },
     "examples": [
